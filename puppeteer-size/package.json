@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-size",
+  "version": "1.0.0",
+  "description": "Get the response size of a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  },
+  "author": "Jhosetp Chino",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "puppeteer": "^1.19.0"
+  }
+}
